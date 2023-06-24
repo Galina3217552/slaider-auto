@@ -1,2 +1,3 @@
-# slaider-auto
-Auto
+# Слайдер с автомобилями
+## Slider-Auto
+Слайдер
